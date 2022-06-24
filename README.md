@@ -1,0 +1,2 @@
+# MyDbook-Scraper
+This software allows you to download book pages from the mydbook.giuntitvp.it platform. To use it, simply log in and then enter the ID of the book to be downloaded, which can be picked up by going to open a book in the site. Once you have also set the number of pages to download, simply press the "Start scraping" button, to begin the process of saving images in the same folder where the software is located.
